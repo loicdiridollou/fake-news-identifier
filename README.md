@@ -1,5 +1,5 @@
 # Fake News Identifier
-This repository is meant to organize a project to model, implement and deploy a fake-news identifier
+This repository is meant to organize a project to model, implement and deploy a fake-news identifier with web deployment using TensorFlowJS.
 
 # Keywords
 machine learning, natural language processing, identification, deployment, web interfacing
